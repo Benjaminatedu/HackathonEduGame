@@ -5,7 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://bwo20jvsmiull" path="res://Resources/breakable_0.png" id="3_7nb26"]
 [ext_resource type="PackedScene" uid="uid://b4bjfuq4hmwya" path="res://Scenes/Player.tscn" id="3_m8gvy"]
 [ext_resource type="Texture2D" uid="uid://dhc6nexnj6d1y" path="res://Assets/wall001.png" id="4_xodsh"]
-[ext_resource type="PackedScene" uid="uid://bld11fite4ahg" path="res://Scenes/Exit.tscn" id="6_2od3e"]
+[ext_resource type="PackedScene" path="res://Scenes/Exit.tscn" id="6_2od3e"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_e4ds1"]
 texture = ExtResource("2_1xpge")

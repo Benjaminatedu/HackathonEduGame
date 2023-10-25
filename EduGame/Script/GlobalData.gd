@@ -44,7 +44,7 @@ var htmlEntitesReplacement_ = {
 
 
 var type_of_question_ = ["multiple", "boolean"]
-var number_of_quesions_ = 3
+var number_of_quesions_ = 2
 var selected_catagory_ # this is the value not the key
 var selected_difficulty_ = "easy"
 
@@ -54,7 +54,7 @@ var json_data_
 var json_wrong_ = {"results":[]}
 
 
-var maze_time_ = 60
+var maze_time_ = 30
 
 var maze_level_ = 1
 
